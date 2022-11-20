@@ -1,4 +1,4 @@
-Roalind account:
+GC/Computing GC Content
 
 
 with open("C:/Users/Cheetous/Downloads/rosalind_gc.txt",'r') as file:
