@@ -1,5 +1,5 @@
 Rosalind account : 
-Exercise : iprb/Rabbits and Recurrence Relations
+Exercise : iprb/Mendel's First Law
 
 def prd(k,m,n):
     tot = k+m+n
