@@ -1,0 +1,5 @@
+iev/Calculating Expected Offspring
+
+numcoup = [19801,18354,19053,16551,18829,18794]
+exout = [2,2,2,2*0.75,2*0.5]
+print(sum([x*y for x,y in zip(numcoup,exout)]))
